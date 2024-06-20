@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708272372 source:d:\c\platform_types\main.c
+	<stdio.h>
+	<stdlib.h>
+	"platform_types.h"
+
+1708272357 d:\c\platform_types\platform_types.h
+
