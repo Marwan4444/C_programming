@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1712233741 source:d:\c\data_structure\queue\main.c
+	"queue.h"
+
+1710244864 d:\c\data_structure\queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"sdt_type.h"
+
+1710183431 d:\c\data_structure\queue\sdt_type.h
+
+1710244862 source:d:\c\data_structure\queue\queue.c
+	"queue.h"
+
