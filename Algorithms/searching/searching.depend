@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1712303760 source:d:\c\algorithms\searching\searching.c
+	"searching.h"
+
+1712303760 d:\c\algorithms\searching\searching.h
+	<stdio.h>
+	<stdlib.h>
+	"std_type.h"
+
+1710179831 d:\c\algorithms\searching\std_type.h
+
+1712304211 source:d:\c\algorithms\searching\main.c
+	"searching.h"
+
